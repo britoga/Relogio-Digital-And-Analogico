@@ -1,0 +1,1 @@
+Projeto criado para aprimorar a manipulação de horarios e objetos com movimentos dentro do JavaScript
